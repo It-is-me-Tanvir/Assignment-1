@@ -182,7 +182,7 @@ header section {
     text-align: center;
 }
 
-.inta-box {}
+
 
 .insta-img {
     padding: 7px;
@@ -220,14 +220,37 @@ header section {
     border-radius: 8px;
 }
 
-footer h3 samp {
-    color: #a7183771;
-}
-
 footer {
     background-color: black;
     width: 1920px;
     height: 449px;
     text-align: center;
-    color: white
-    }
+    color: rgba(255, 255, 255, 0.849);
+    justify-content: center;
+    padding-top: 128px;
+    
+}
+
+footer h3 samp {
+    color: #e6234dd2;
+
+}
+.footer-dis{
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 24px;
+}
+
+.footer-titel {
+    color: #ffffffe7;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 24px;
+
+}
+footer small{
+    color: rgba(255, 255, 255, 0.4);
+}
