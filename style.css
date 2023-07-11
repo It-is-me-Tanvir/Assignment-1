@@ -185,7 +185,49 @@ header section {
 .inta-box {}
 
 .insta-img {
-    padding: 24px;
+    padding: 7px;
     width: 342px;
     height: 396px;
 }
+
+.latest-deals {
+
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
+    border-radius: 8px;
+    height: 449px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 128px 240px;
+    text-align: center;
+    position: relative;
+
+
+}
+
+.latest-deals>div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+#email {
+    width: 700px;
+    height: 64px;
+    border-style: none;
+    border-radius: 8px;
+}
+
+footer h3 samp {
+    color: #a7183771;
+}
+
+footer {
+    background-color: black;
+    width: 1920px;
+    height: 449px;
+    text-align: center;
+    color: white
+    }
